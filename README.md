@@ -20,6 +20,7 @@
 | [AUTH_2FA_GUIDE.md](./docs/AUTH_2FA_GUIDE.md) | 2단계 인증 가이드 |
 | [MEDICAL_COMPLIANCE.md](./docs/MEDICAL_COMPLIANCE.md) | 의료 법규 준수 가이드 |
 | [CRM_PLAN.md](./docs/CRM_PLAN.md) | 병원 CRM 기획 |
+| [THELINE_MIGRATION_PLAN.md](./docs/THELINE_MIGRATION_PLAN.md) | THELINE-PS.com 마이그레이션 계획 |
 
 ## 주요 기능
 
